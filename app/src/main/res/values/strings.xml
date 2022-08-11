@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Todo App</string>
+
+    <string-array name="dialog_items">
+        <item> Edit </item>
+        <item> Delete </item>
+    </string-array>
+
+</resources>
